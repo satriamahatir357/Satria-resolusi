@@ -1,3 +1,4 @@
 SATRIA RESOLUSI
 - konsisten ngoding setiap hari
 - Membuat platfrom untuk pengalaman coding
+- membuat web sederhana
